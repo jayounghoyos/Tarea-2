@@ -1,0 +1,3 @@
+C:/Users/jayoungh/CLionProjects/POO_3964_Clase02_ClasesEnArchivos/cmake-build-debug/CMakeFiles/POO_3964_Clase02.dir
+C:/Users/jayoungh/CLionProjects/POO_3964_Clase02_ClasesEnArchivos/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/jayoungh/CLionProjects/POO_3964_Clase02_ClasesEnArchivos/cmake-build-debug/CMakeFiles/rebuild_cache.dir
