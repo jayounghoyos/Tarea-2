@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # Install script for directory: C:/Users/jayoungh/CLionProjects/listPara proyecto P2/ProgrammingLanguages_3964_2024-1/C++Projects/POO_3964_Clase02_ClasesEnArchivos
+=======
+# Install script for directory: C:/Users/jayoungh/CLionProjects/POO_3964_Clase02_ClasesEnArchivos
+>>>>>>> master
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +49,9 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
+<<<<<<< HEAD
 file(WRITE "C:/Users/jayoungh/CLionProjects/listPara proyecto P2/ProgrammingLanguages_3964_2024-1/C++Projects/POO_3964_Clase02_ClasesEnArchivos/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+=======
+file(WRITE "C:/Users/jayoungh/CLionProjects/POO_3964_Clase02_ClasesEnArchivos/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+>>>>>>> master
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

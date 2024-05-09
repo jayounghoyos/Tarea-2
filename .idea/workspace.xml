@@ -20,6 +20,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="08a6c592-3e7c-448d-8e49-916de95bffa3" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/cache-v2-96250862e445f9933a90.json" beforeDir="false" />
@@ -95,16 +96,24 @@
       <change beforePath="$PROJECT_DIR$/../../PythonProjects/POO_3964_Clase01/.idea/modules.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../PythonProjects/POO_3964_Clase01/main.py" beforeDir="false" />
     </list>
+=======
+    <list default="true" id="08a6c592-3e7c-448d-8e49-916de95bffa3" name="Changes" comment="readme" />
+>>>>>>> master
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+<<<<<<< HEAD
+=======
+  <component name="ChangesViewManager" show_ignored="true" />
+>>>>>>> master
   <component name="ClangdSettings">
     <option name="formatViaClangd" value="false" />
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
   <component name="Git.Settings">
+<<<<<<< HEAD
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
   <component name="GitHubPullRequestSearchHistory"><![CDATA[{
@@ -113,6 +122,16 @@
     "assignee": "jayounghoyos"
   }
 }]]></component>
+=======
+    <option name="RECENT_GIT_ROOT_PATH" value="$USER_HOME$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;jayounghoyos&quot;
+  }
+}</component>
+>>>>>>> master
   <component name="GithubPullRequestsUISettings">
     <option name="selectedUrlAndAccountId">
       <UrlAndAccount>
@@ -121,6 +140,12 @@
       </UrlAndAccount>
     </option>
   </component>
+<<<<<<< HEAD
+=======
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+>>>>>>> master
   <component name="ProjectApplicationVersion">
     <option name="ide" value="CLion" />
     <option name="majorVersion" value="2023" />
@@ -148,7 +173,10 @@
     "WebServerToolWindowFactoryState": "false",
     "cf.first.check.clang-format": "false",
     "cidr.known.project.marker": "true",
+<<<<<<< HEAD
     "git-widget-placeholder": "main",
+=======
+>>>>>>> master
     "ignore.virus.scanning.warn.message": "true",
     "last_opened_file_path": "C:/Users/jayoungh/CLionProjects/POO_3964_Clase02_ClasesEnArchivos",
     "node.js.detected.package.eslint": "true",
@@ -156,21 +184,45 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+<<<<<<< HEAD
     "structure.view.defaults.are.configured": "true",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+=======
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
+    "settings.editor.splitter.proportion": "0.28134558",
+    "structure.view.defaults.are.configured": "true",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "GitStage.ChangesTree.GroupingKeys": [
+      "directory",
+      "module",
+      "repository"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\jayoungh\CLionProjects\POO_3964_Clase02_ClasesEnArchivos\readme" />
+    </key>
+  </component>
+>>>>>>> master
   <component name="RunManager">
     <configuration name="POO_3964_Clase02" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="POO_3964_Clase02" TARGET_NAME="POO_3964_Clase02" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="POO_3964_Clase02" RUN_TARGET_NAME="POO_3964_Clase02">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
+<<<<<<< HEAD
     <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
+=======
+>>>>>>> master
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -183,7 +235,13 @@
       <workItem from="1710252732818" duration="4834000" />
       <workItem from="1710790690776" duration="1413000" />
       <workItem from="1710866017648" duration="2795000" />
+<<<<<<< HEAD
       <workItem from="1715220059097" duration="1371000" />
+=======
+      <workItem from="1715220059097" duration="1340000" />
+      <workItem from="1715221914947" duration="3507000" />
+      <workItem from="1715225536310" duration="137000" />
+>>>>>>> master
     </task>
     <servers />
   </component>

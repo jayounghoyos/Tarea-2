@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 "C:\Program Files\JetBrains\CLion 2023.3.3\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=C:/Program Files/JetBrains/CLion 2023.3.3/bin/ninja/win/x64/ninja.exe" -G Ninja -S "C:\Users\jayoungh\CLionProjects\listPara proyecto P2\ProgrammingLanguages_3964_2024-1\C++Projects\POO_3964_Clase02_ClasesEnArchivos" -B "C:\Users\jayoungh\CLionProjects\listPara proyecto P2\ProgrammingLanguages_3964_2024-1\C++Projects\POO_3964_Clase02_ClasesEnArchivos\cmake-build-debug"
 -- The C compiler identification is GNU 13.1.0
 -- The CXX compiler identification is GNU 13.1.0
@@ -14,3 +15,9 @@
 -- Configuring done (6.6s)
 -- Generating done (0.0s)
 -- Build files have been written to: C:/Users/jayoungh/CLionProjects/listPara proyecto P2/ProgrammingLanguages_3964_2024-1/C++Projects/POO_3964_Clase02_ClasesEnArchivos/cmake-build-debug
+=======
+"C:\Program Files\JetBrains\CLion 2023.3.3\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=C:/Program Files/JetBrains/CLion 2023.3.3/bin/ninja/win/x64/ninja.exe" -G Ninja -S C:\Users\jayoungh\CLionProjects\POO_3964_Clase02_ClasesEnArchivos -B C:\Users\jayoungh\CLionProjects\POO_3964_Clase02_ClasesEnArchivos\cmake-build-debug
+-- Configuring done (0.2s)
+-- Generating done (0.0s)
+-- Build files have been written to: C:/Users/jayoungh/CLionProjects/POO_3964_Clase02_ClasesEnArchivos/cmake-build-debug
+>>>>>>> master
